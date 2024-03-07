@@ -17,7 +17,7 @@ Spotify offers a vast library of music and podcasts accessible across various de
 - Pydantic
 
 ## Summary
-
+The client's brief asked to have book titles from Gutenberg's database of books iterated over and searched on Spotify collecting the following information: 
 
 ## Data Preview
 
