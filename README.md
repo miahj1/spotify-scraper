@@ -27,7 +27,7 @@ Before fetching from Spotify, the Gutenberg data needed to be pre-processed:
 The process would have to be done every month using an ETL pipeline as client requested monthly data to be compared and retrieved.
 
 ## Data Preview
-A peak into what a sample of the data looks like: there were `72,000` data points collected.
+A peak into what a sample of the data looks like, `72,000` data points collected.
 <picture><img src="https://github.com/miahj1/spotify-scraper/assets/84815985/d80a4383-6d48-41b0-8dd8-e58a004dc110"></picture>
 
 ## Client Feedback
