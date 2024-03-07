@@ -24,6 +24,8 @@ Before fetching from Spotify, the Gutenberg data needed to be pre-processed:
 - Removal of `by` from the titles of the books e.g. the title would look like this for certain books `Book Title by Book Author`.
 - Removal of date of birth and date of death including semicolons and commas.
 
+The process would have to be done every month using an ETL pipeline as client requested monthly data to be compared and retrieved.
+
 ## Data Preview
 
 
